@@ -48,7 +48,7 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact me at [your-yashtuwari893@gmail.com].
+If you have any questions or need assistance, feel free to contact me at [yashtuwari893@gmail.com].
 
 ## Acknowledgments
 
