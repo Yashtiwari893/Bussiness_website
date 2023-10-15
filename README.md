@@ -56,7 +56,7 @@ If you have any questions or need assistance, feel free to contact me at [yashtu
 
 ## Author
 
-[Your Name]
+[Samman Tiwari]
 
 [GitHub Profile](https://github.com/Yashtiwari893)
 
